@@ -1,0 +1,37 @@
+ {
+  box-sizing: border-box;  
+}
+html {
+  font-family:'Source Serif Pro', cursive;
+  font -size: 16px;
+  }
+header, footer {
+    background: deepskyblue  ;
+    width: 40%;
+}
+
+header, footer {
+    border-bottom:  skyblue  #000;
+    width: 40%;
+}
+
+.wrapper{
+      width: 50%;
+      margin: 0 auto;
+  } 
+
+h1, h2{    
+    color:  #0A0A0A  ;
+    font family: 'Ranga', serif;
+    }
+    h1{
+font-size: 2rem;
+}
+h2 {
+font-size: 1.75rem;
+}
+h3 {
+font-size: 1.25rem;
+margin: 36px;
+text-align: center;
+}
